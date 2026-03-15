@@ -1,6 +1,6 @@
 # AI Backend for PDF Processing
 
-This prototype AI-driven backend pipeline ingests educational PDFs, converts content into structured chunks, and generates adaptive quizzes using LLMs (Gemini).
+This prototype AI-driven backend pipeline ingests educational PDFs, converts content into structured chunks, and generates adaptive quizzes using AI Models.
 
 ## Features
 - **Content Ingestion:** Extracts text from PDFs and stores it in chunks with metadata.
